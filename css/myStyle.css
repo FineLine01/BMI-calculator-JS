@@ -1,0 +1,51 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(175, 195, 175);
+    color: rgb(137, 78, 58);
+    height: 100vh;
+    width: 100vh;
+    margin: 0;
+}
+
+button {
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+    color: rgb(175, 195, 175);
+    background-color: rgb(137, 78, 58);
+    font-weight: 700;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 30px;
+}
+
+input {
+    border-radius: 5px;
+    height: 23px;
+    width: 110px;
+    border: none;
+    color: rgb(175, 195, 175);
+    background-color: rgb(137, 78, 58);
+    opacity: 0.7;
+    margin: 20px;
+}
+
+.bmiCalc {
+    padding:10px;
+    position: relative;
+    top: 100px;
+    left: 700px;
+}
+
+.result {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+h1 {
+    position: relative;
+    left: 30px;
+}
+
